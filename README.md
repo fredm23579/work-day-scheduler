@@ -21,7 +21,7 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 ```
 
 # Project URL's
-- **Repository URL**: https://github.com/fredm23579/work-day-scheduler.git
+- **Repository URL**: https://github.com/fredm23579/work-day-scheduler/
 - **Application URL**: https://fredm23579.github.io/work-day-scheduler/
 
 # Usage
@@ -57,6 +57,6 @@ This project is licensed under the **MIT License**.
 
 ### Additional Notes:
 
-- **Repository URL**: https://github.com/fredm23579/work-day-scheduler.git
-- **Project URL**: [https://io.githhub.com/fredm23579/work-day-scheduler.git](https://fredm23579.github.io/work-day-scheduler/)
+- **Repository URL**: https://github.com/fredm23579/work-day-scheduler/
+- **Project URL**: https://fredm23579.github.io/work-day-scheduler/
 - This project is licensed under the **MIT License**.
