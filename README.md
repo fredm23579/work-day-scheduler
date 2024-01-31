@@ -37,19 +37,19 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 - **jQuery**
 - **Day.js**
 
-# Demo of working Application
+# Demo of Working Application
 
-- **Screenshots**: ![Demo of Application](assets/imgs/demo.gif)
+- **Demo of working application**: ![Demo of Application](assets/imgs/demo.gif)
 
 # Contributing
 Contributions to the Work Day Scheduler are welcome. 
--**To contribute**:
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+##To contribute:
+- **Fork the repository.**
+- **Create a new branch (git checkout -b feature-branch).**
+- **Make your changes.**
+- **Commit your changes (git commit -am 'Add some feature').**
+- **Push to the branch (git push origin feature-branch).**
+- **Create a new Pull Request.**
 
 ## License
 This project is licensed under the **MIT License**.
