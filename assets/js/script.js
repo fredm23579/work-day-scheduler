@@ -1,9 +1,18 @@
 $(function () {
     // Function to display the current date at the top of the calendar
-    function displayCurrentDate() { // Function to display the current date at the top of the calendar with the format "dddd, MMMM D" using Day.js library and display it in the currentDay element
-        $('#currentDay').text(dayjs().format('dddd, MMMM D')); // Format the date using Day.js library and display it in the currentDay element
+    function displayCurrentDate() {
+        // Function to display the current date at the top of the calendar
+        let date = dayjs(); // Get the current date using Day.js library and assign it to date variable in the format 
+        let day = date.date(); // Get the day of the month using Day.js library and assign it to day variable 
+        
+        let suffix = (day % 10 === 1 && day !== 11) ? 'st' : // Determine the suffix for the day of the month and assign it to suffix variable
+                     (day % 10 === 2 && day !== 12) ? 'nd' : // Determine the suffix for the day of the month and assign it to suffix variable
+                     (day % 10 === 3 && day !== 13) ? 'rd' : 'th'; // Determine the suffix for the day of the month and assign it to suffix variable
+    
+        let formattedDate = date.format(`dddd, MMMM D${suffix}`); // Format the date using Day.js library and assign it to formattedDate variable in the format "dddd, MMMM Dth" where th is the suffix
+        $('#currentDay').text(formattedDate); // Display the formatted date in the current day element in the format "dddd, MMMM Dth" where th is the suffix using jQuery library 
     }
-
+    
     // Function to create and append time blocks
     function createTimeBlocks() { // Function to create and append time blocks to the time blocks container element with the format "hour AM" or "hour PM" using Day.js library
         const workHoursStart = 9; // Start at 9 AM (9) in 24-hour format (0-23) using Day.js library and assign it to workHoursStart variable in the format "9 AM" or "5 PM"
