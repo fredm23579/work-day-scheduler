@@ -18,10 +18,44 @@ To install the Work Day Scheduler, clone the repository using the following comm
 
 ```bash
 git clone https://github.com/fredm23579/work-day-scheduler.git
+```
 
+# Project URL's
+- **Repository URL**: Change `https://github.com/fredm23579/work-day-scheduler.git` to the actual URL of your project repository.
+- **Application URL**: Change `https://io.githhub.com/fredm23579/work-day-scheduler.git` to the actual URL of the working application.
+
+# Usage
+- **View the Scheduler**: Open the index.html file in a web browser to view the scheduler.
+- **Add Events**: Click on the text area in a time block to add an event for that hour.
+- **Save Events**: Click the save button next to the time block to save the event. Your event will be stored in local storage and persist across browser sessions.
+- **View Saved Events**: Saved events will be displayed in their respective time blocks upon reloading or reopening the page.
+
+# Technologies Used:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
+- **Day.js**
+
+# Screenshots
+
+- **Screenshots**: `[Include some screenshots of your application here.]`
+
+# Contributing
+Contributions to the Work Day Scheduler are welcome. 
+-**To contribute**:
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
+
+## License
+This project is licensed under the **MIT License**.
 
 ### Additional Notes:
 
-- **Screenshots**: Replace `[Include some screenshots of your application here.]` with actual screenshots or links to screenshots of your application.
 - **Repository URL**: Change `https://github.com/fredm23579/work-day-scheduler.git` to the actual URL of your project repository.
-- **License Link**: Make sure the link to the MIT License `(LICENSE)` points to the actual license file in your repository, if you have one. If you don't have a license file, you might want to either add one or modify this section accordingly.
+- **Project URL**: Change `https://io.githhub.com/fredm23579/work-day-scheduler.git` to the actual URL of the working application.
+- This project is licensed under the **MIT License**.
