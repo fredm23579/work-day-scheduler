@@ -22,8 +22,8 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 <<<<<<< HEAD
 
 # Project URL's
-- **Repository URL**: Change `https://github.com/fredm23579/work-day-scheduler.git` to the actual URL of your project repository.
-- **Application URL**: Change `https://io.githhub.com/fredm23579/work-day-scheduler.git` to the actual URL of the working application.
+- **Repository URL**: https://github.com/fredm23579/work-day-scheduler.git
+- **Application URL**: https://io.githhub.com/fredm23579/work-day-scheduler.git
 
 # Usage
 - **View the Scheduler**: Open the index.html file in a web browser to view the scheduler.
