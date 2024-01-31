@@ -37,7 +37,7 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 - **jQuery**
 - **Day.js**
 
-# Screenshots
+# Demo of working Application
 
 - **Screenshots**: [./imgs/demo.gif](./imgs/demo.gif) 
 
