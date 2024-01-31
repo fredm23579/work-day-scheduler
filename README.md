@@ -43,7 +43,7 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 
 # Contributing
 Contributions to the Work Day Scheduler are welcome. 
-##To contribute:
+## To contribute:
 - **Fork the repository.**
 - **Create a new branch (git checkout -b feature-branch).**
 - **Make your changes.**
