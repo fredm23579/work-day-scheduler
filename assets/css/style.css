@@ -1,60 +1,63 @@
-body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+/* CSS for Work Day Scheduler */
+/* c:/Users/motta/bootcamp/work-day-scheduler/assets/css/style.css */
+
+body { /* Body style */
+    font-family: 'Open Sans', sans-serif; /* Font */
+    font-size: 16px; /* Font size 16 px  */
   }
   
-  textarea {
-    background: transparent;
-    border: none;
-    resize: none;
-    color: #000000;
-    border-left: 1px solid black;
-    padding: 10px;
+  textarea { /* Textarea style  */
+    background: transparent; /* Background transparent for textarea  */ 
+    border: none; /* No border for textarea   */
+    resize: none; /* No resize for textarea  */
+    color: #000000; /* Text color black  */
+    border-left: 1px solid black; /* Border left black   */
+    padding: 10px; /* Padding 10 px */
   }
   
-  .description {
-    white-space: pre-wrap;
+  .description { /* Description style  */
+    white-space: pre-wrap; /* White space pre wrap for description  */
   }
   
-  .time-block {
-    border-radius: 15px;
+  .time-block { /* Time block style  */
+    border-radius: 15px; /* Border radius 15 px */
   }
   
-  .row {
-    border-top: 1px solid white;
+  .row { /* Row style  */
+    border-top: 1px solid white; /* Border top white  */
   }
   
-  .hour {
-    background-color: #ffffff;
-    color: #000000;
-    border-top: 1px dashed #000000;
+  .hour { /* Hour style  */
+    background-color: #ffffff; /* Background color white  */
+    color: #000000; /* Text color black  */
+    border-top: 1px dashed #000000; /* Border top dashed black  */
   }
   
-  .past {
-    background-color: #d3d3d3;
-    color: white;
+  .past { /* Past style  */
+    background-color: #d3d3d3; /* Background color d3d3d3  */
+    color: white; /* Text color white  */
   }
   
-  .present {
-    background-color: #ff6961;
-    color: white;
+  .present { /* Present style  */
+    background-color: #ff6961; /* Background color ff6961  */
+    color: white; /* Text color white  */
   }
   
-  .future {
-    background-color: #77dd77;
-    color: white;
+  .future { /* Future style  */
+    background-color: #77dd77; /* Background color 77dd77  */
+    color: white; /* Text color white  */
   }
   
-  .saveBtn {
-    border-left: 1px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: #06aed5;
-    color: white;
+  .saveBtn { /* Save button style  */
+    border-left: 1px solid black; /* Border left black  */
+    border-top-right-radius: 15px; /* Border top right radius 15 px */
+    border-bottom-right-radius: 15px; /* Border bottom right radius 15 px */
+    background-color: #06aed5; /* Background color 06aed5  */
+    color: white; /* Text color white  */
   }
   
-  .saveBtn i:hover {
-    font-size: 20px;
-    transition: all 0.3s ease-in-out;
+  .saveBtn i:hover { /* Save button hover style  */
+    font-size: 20px; /* Font size 20 px  */
+    transition: all 0.3s ease-in-out; /* Transition all 0.3s ease-in-out  */
   }
   
