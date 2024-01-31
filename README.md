@@ -18,7 +18,7 @@ To install the Work Day Scheduler, clone the repository using the following comm
 
 ```bash
 git clone https://github.com/fredm23579/work-day-scheduler.git
-
+```
 
 ### Additional Notes:
 
