@@ -39,7 +39,7 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 
 # Screenshots
 
-- **Screenshots**: `[Include some screenshots of your application here.]`
+- **Screenshots**: [Include some screenshots of your application here.]
 
 # Contributing
 Contributions to the Work Day Scheduler are welcome. 
@@ -53,7 +53,7 @@ Create a new Pull Request.
 
 ## License
 This project is licensed under the **MIT License**.
-=======
+
 
 ### Additional Notes:
 
