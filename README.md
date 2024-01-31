@@ -39,7 +39,7 @@ git clone https://github.com/fredm23579/work-day-scheduler.git
 
 # Demo of working Application
 
-- **Screenshots**: [./assests/imgs/demo.gif](./assets/imgs/demo.gif) 
+- **Screenshots**: ![Demo of Application](assets/imgs/demo.gif)
 
 # Contributing
 Contributions to the Work Day Scheduler are welcome. 
