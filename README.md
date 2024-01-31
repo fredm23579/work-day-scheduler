@@ -19,6 +19,7 @@ To install the Work Day Scheduler, clone the repository using the following comm
 ```bash
 git clone https://github.com/fredm23579/work-day-scheduler.git
 ```
+<<<<<<< HEAD
 
 # Project URL's
 - **Repository URL**: Change `https://github.com/fredm23579/work-day-scheduler.git` to the actual URL of your project repository.
@@ -53,6 +54,8 @@ Create a new Pull Request.
 
 ## License
 This project is licensed under the **MIT License**.
+=======
+>>>>>>> b0fcb6c8a913ae9299bf858970339ec920f54158
 
 ### Additional Notes:
 
