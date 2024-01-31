@@ -9,7 +9,7 @@ $(function () {
                      (day % 10 === 2 && day !== 12) ? 'nd' : // Determine the suffix for the day of the month and assign it to suffix variable
                      (day % 10 === 3 && day !== 13) ? 'rd' : 'th'; // Determine the suffix for the day of the month and assign it to suffix variable
     
-        let formattedDate = date.format(`dddd, MMMM D${suffix}`); // Format the date using Day.js library and assign it to formattedDate variable in the format "dddd, MMMM Dth" where th is the suffix
+        let formattedDate = date.format(`dddd, MMMM DD${suffix}`); // Format the date using Day.js library and assign it to formattedDate variable in the format "dddd, MMMM Dth" where th is the suffix
         $('#currentDay').text(formattedDate); // Display the formatted date in the current day element in the format "dddd, MMMM Dth" where th is the suffix using jQuery library 
     }
     
